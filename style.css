@@ -1,19 +1,21 @@
-body {
-    background: #020101
+body{
+    background-color: rgb(175, 175, 162);
+    text-align:center;
 }
-img{  
-    width : 20%;
-}
-.principal{
-
-    
-}
-    text-align: center;
 
 
-em strong {
-    color: #f7f306;
+#imagem{
+    width: 20%;
+
 }
-.itens{
-     font-style: italic
+
+
+p{
+
+   text-align: center;
+    background-color: rgb(250, 242, 244);
+}
+
+strong{
+    color: red;
 }
